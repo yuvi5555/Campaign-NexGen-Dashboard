@@ -62,6 +62,7 @@
     "vaul": "^0.9.9",
     "zod": "^3.25.76",
     "vite": "^5.4.20",
+    "@swc/core": "^1.7.0",
     "@vitejs/plugin-react-swc": "^3.11.0"
   },
   "devDependencies": {
