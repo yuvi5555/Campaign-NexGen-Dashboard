@@ -1,6 +1,6 @@
-flask==2.3.4          # Web server framework
-flask-cors==3.1.1     # To allow your Vercel frontend to call backend
-gunicorn==21.2.0      # Production WSGI server
+flask==2.3.4
+flask-cors==3.1.1
+gunicorn==21.2.0
 pandas==2.2.2
 numpy==1.26.4
 scikit-learn==1.4.2
